@@ -1,7 +1,7 @@
 <script>
   import axios from "axios";
 
-  const api_root = "http://ganesrakzhaw.pythonanywhere.com/question";
+  const api_root = "https://ganesrakzhaw.pythonanywhere.com/question";
 
   let messages = {
     question: null,
